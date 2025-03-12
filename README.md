@@ -34,10 +34,10 @@
  
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
-[ex 1.2.pdf](https://github.com/user-attachments/files/19202998/ex.1.2.pdf)
 
  ## OUTPUT
  ![Screenshot (51)](https://github.com/user-attachments/assets/dcefb963-fe55-4149-a679-69723a2e3b19)
+[ex 1.2.pdf](https://github.com/user-attachments/files/19202998/ex.1.2.pdf)
 
 
  
